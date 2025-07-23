@@ -1,0 +1,237 @@
+{
+  "version": 0.1,
+  "files": {
+    "app/page.tsx": {
+      "scopes": {
+        "2/declaration/body/0/argument/11/1": {
+          "type": "element",
+          "hash": "bc217a7307232111f7f57e71dc3f35b1",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "© <function:Date.getFullYear/> Your Brand. All rights reserved."
+        },
+        "2/declaration/body/0/argument/3/1": {
+          "type": "element",
+          "hash": "a5d539bc05cad479cadd57a5b2241cda",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Your Brand"
+        },
+        "2/declaration/body/0/argument/3/3/1/1/0": {
+          "type": "element",
+          "hash": "104a3db3b671c04e167eafbe21e57881",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Home"
+        },
+        "2/declaration/body/0/argument/3/3/1/3/0": {
+          "type": "element",
+          "hash": "944521eeeed2511833d2299931273c71",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "About"
+        },
+        "2/declaration/body/0/argument/3/3/1/5/0": {
+          "type": "element",
+          "hash": "9afa39bc47019ee6dec6c74b6273967c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Contact"
+        },
+        "2/declaration/body/0/argument/7/1/1": {
+          "type": "element",
+          "hash": "bea46f02c517532a031d1e2987ffaad6",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Pure."
+        },
+        "2/declaration/body/0/argument/7/1/3": {
+          "type": "element",
+          "hash": "b9a5986c31f161dbcc5ae78b3ca01af9",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Simple."
+        },
+        "2/declaration/body/0/argument/7/1/5": {
+          "type": "element",
+          "hash": "34feb3d1fe729d59e76494a3ad4d484a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Essential."
+        },
+        "2/declaration/body/0/argument/7/3": {
+          "type": "element",
+          "hash": "82114b7fb5d00c0f960db3bd3ba74cd7",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "A clean slate for your vision. Focus on clarity and impact."
+        },
+        "2/declaration/body/0/argument/7/5": {
+          "type": "element",
+          "hash": "ef727613b544fcdba2b69a5ae54f5682",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Discover More"
+        }
+      }
+    },
+    "components/LocaleSwitcher.tsx": {
+      "scopes": {
+        "2/declaration/body/1/argument/1": {
+          "type": "element",
+          "hash": "97b70ce40eaf1b5118b4f6e40c92cf65",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Language:"
+        }
+      }
+    },
+    "components/NavBar.tsx": {
+      "scopes": {
+        "2/declaration/body/1/argument/1/1/11/1/1": {
+          "type": "element",
+          "hash": "ed0cbd196406e20ec1d1112565bb7849",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Open main menu"
+        },
+        "2/declaration/body/1/argument/1/1/3/1": {
+          "type": "element",
+          "hash": "4fb50f87b47334f5ed8bef829cff8f67",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Your Brand"
+        },
+        "2/declaration/body/1/argument/1/1/7/1": {
+          "type": "element",
+          "hash": "104a3db3b671c04e167eafbe21e57881",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Home"
+        },
+        "2/declaration/body/1/argument/1/1/7/3": {
+          "type": "element",
+          "hash": "944521eeeed2511833d2299931273c71",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "About"
+        },
+        "2/declaration/body/1/argument/1/1/7/5": {
+          "type": "element",
+          "hash": "9afa39bc47019ee6dec6c74b6273967c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Contact"
+        },
+        "2/declaration/body/1/argument/5/expression/right/1/1": {
+          "type": "element",
+          "hash": "104a3db3b671c04e167eafbe21e57881",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Home"
+        },
+        "2/declaration/body/1/argument/5/expression/right/1/3": {
+          "type": "element",
+          "hash": "944521eeeed2511833d2299931273c71",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "About"
+        },
+        "2/declaration/body/1/argument/5/expression/right/1/5": {
+          "type": "element",
+          "hash": "9afa39bc47019ee6dec6c74b6273967c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Contact"
+        }
+      }
+    },
+    "components/Navbar.tsx": {
+      "scopes": {
+        "2/declaration/body/1/argument/1/1/11/1/1": {
+          "type": "element",
+          "hash": "ed0cbd196406e20ec1d1112565bb7849",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Open main menu"
+        },
+        "2/declaration/body/1/argument/1/1/3/1": {
+          "type": "element",
+          "hash": "4fb50f87b47334f5ed8bef829cff8f67",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Your Brand"
+        },
+        "2/declaration/body/1/argument/1/1/7/1": {
+          "type": "element",
+          "hash": "104a3db3b671c04e167eafbe21e57881",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Home"
+        },
+        "2/declaration/body/1/argument/1/1/7/3": {
+          "type": "element",
+          "hash": "944521eeeed2511833d2299931273c71",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "About"
+        },
+        "2/declaration/body/1/argument/1/1/7/5": {
+          "type": "element",
+          "hash": "9afa39bc47019ee6dec6c74b6273967c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Contact"
+        },
+        "2/declaration/body/1/argument/5/expression/right/1/1": {
+          "type": "element",
+          "hash": "104a3db3b671c04e167eafbe21e57881",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Home"
+        },
+        "2/declaration/body/1/argument/5/expression/right/1/3": {
+          "type": "element",
+          "hash": "944521eeeed2511833d2299931273c71",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "About"
+        },
+        "2/declaration/body/1/argument/5/expression/right/1/5": {
+          "type": "element",
+          "hash": "9afa39bc47019ee6dec6c74b6273967c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Contact"
+        }
+      }
+    }
+  }
+}
